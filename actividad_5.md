@@ -9,16 +9,16 @@ El sistema utiliza un microcontrolador **ESP32** para capturar señales analógi
 ## 🎥 Demostración en Video y Fotografía
 
 ### Demostración en Video del Montaje en Funcionamiento
-Below you can watch the physical assembly interacting in real-time with the 3D digital twin:
 
 <!-- REEMPLAZA EL ENLACE DE ABAJO CON TU VIDEO SUBIDO A GITHUB O YOUTUBE -->
-<p align="center">
-  <a href="(https://youtube.com/shorts/Xws34grkwh4?si=MOjrPoyY9AP0RlI4)">
+
+  Video: https://youtube.com/shorts/Xws34grkwh4?si=MOjrPoyY9AP0RlI4
+  <p align="center">
     <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8a01aa81-2f02-4957-a462-f7752f9c003b" />
   </a>
   <br>
   
-  <em>Figura 1: Módulo físico ESP32 con potenciómetros y simulador PyBullet operando simultáneamente. Haz clic en la imagen para ver el video.</em>
+  <em>Figura 1: Módulo físico ESP32 con potenciómetros y simulador PyBullet operando simultáneamente.</em>
 </p>
 
 ---
