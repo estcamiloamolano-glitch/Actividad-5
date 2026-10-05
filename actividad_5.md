@@ -13,7 +13,7 @@ Below you can watch the physical assembly interacting in real-time with the 3D d
 
 <!-- REEMPLAZA EL ENLACE DE ABAJO CON TU VIDEO SUBIDO A GITHUB O YOUTUBE -->
 <p align="center">
-  <a href="[https://github.com/TU_USUARIO/Brazo_URDF/assets/demo_video.mp4](https://youtube.com/shorts/Xws34grkwh4?si=MOjrPoyY9AP0RlI4)">
+  <a href="(https://youtube.com/shorts/Xws34grkwh4?si=MOjrPoyY9AP0RlI4)">
     <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8a01aa81-2f02-4957-a462-f7752f9c003b" />
   </a>
   <br>
