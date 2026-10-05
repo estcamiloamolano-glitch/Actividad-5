@@ -17,6 +17,8 @@ Below you can watch the physical assembly interacting in real-time with the 3D d
     <img src="assets/setup.jpg" alt="Haz clic para ver el video de prueba" width="700"/>
   </a>
   <br>
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8a01aa81-2f02-4957-a462-f7752f9c003b" />
+
   <em>Figura 1: Módulo físico ESP32 con potenciómetros y simulador PyBullet operando simultáneamente. Haz clic en la imagen para ver el video.</em>
 </p>
 
